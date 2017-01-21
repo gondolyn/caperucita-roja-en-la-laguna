@@ -1,6 +1,6 @@
 # First Chapter
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+In this first chapter we will explore the types of Solar Cells that we study at LA Laguna university.
 
 {% youtube %}https://www.youtube.com/watch?v=KFF5bBLX7ME{% endyoutube %} 
 
