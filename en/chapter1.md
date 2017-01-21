@@ -1,6 +1,11 @@
 # First Chapter
 
-In this first chapter we will explore the types of Solar Cells that we study at LA Laguna university.
+In this first chapter we will explore the types of Solar Cells that we study at La Laguna university.
+
+
+
+
+
 
 {% youtube %}https://www.youtube.com/watch?v=KFF5bBLX7ME{% endyoutube %} 
 
