@@ -1,6 +1,6 @@
 section 2
 
-Lo pego aqui porque no me va:
+Lo pego aqui porque no me va, para usarlo luego:
 
  [Chapter 1](Chapter 1/chapter1.md)
     [Page 1](Chapter 1/section1.md)
