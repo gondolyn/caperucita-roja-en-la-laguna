@@ -9,5 +9,5 @@ Try to unserstand the formula we give you, more than memorize it.
 
 
 
-
+[^1]: If something does not have ir, we will indicated it.
 
