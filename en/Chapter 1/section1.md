@@ -10,5 +10,5 @@ This webpage of [NREL](http://www.nrel.gov/analysis/data_resources.html) will sh
 
 Here comes an exaple:
 
-![eficiency](/assets/efficiency.jpg)
-![radiation](../../assets/em_radiation.jpg)
+![eficiency](efficiency.jpg)
+![radiation](em_radiation.jpg)
