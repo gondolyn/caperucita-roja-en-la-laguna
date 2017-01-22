@@ -1,1 +1,1 @@
-Una tabla y una fórmula
+Una nota al pie y una fórmula
