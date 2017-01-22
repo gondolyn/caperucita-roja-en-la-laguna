@@ -6,4 +6,6 @@
 * [Page 1](chapter2.md)
 * [Page 2](chapter2.md)
 * [Chapter 3](chapter3.md)
+* [Page 1](chapter3.md)
+
 
