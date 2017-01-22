@@ -2,8 +2,7 @@
 
 In this chapter we will describe different techniques to study solar cells from differents perspectives.
 
-
-Añadir una tabla
+Table:
 
 |Medidas de EQE en todo el rango | Medidas EQE en el UV |
 | ------------- | ------------- |
