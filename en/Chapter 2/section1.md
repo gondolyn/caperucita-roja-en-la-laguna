@@ -1,4 +1,3 @@
-Una nota al pie y una fórmula
 
 All information has a creative commons license, so feel free to reuse it [^1].
 
